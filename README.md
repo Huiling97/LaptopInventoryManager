@@ -1,11 +1,11 @@
 # LaptopInventoryManager
 
-###### Setup
+### Setup
 Install rspec
 > bundle install
 
-###### Running
+### Running
 > ruby lib/laptop_inventory_manager
 
-###### Testing
+### Testing
 > bundle exec rspec
